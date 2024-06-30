@@ -12,7 +12,8 @@
     }
     .wrapper {
         width: 80%;
-        overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: scroll !important;
         height: fit-content;
         position: relative;
         left: 10%;

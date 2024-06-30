@@ -12,6 +12,7 @@
         position: relative;
         width: fit-content;
         display: inline-block;
+        overflow-y: scroll !important;
     }
     .chat-response-wrapper {
         display: none;
