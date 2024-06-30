@@ -23,6 +23,6 @@ if (url.includes('code')) {
     pkce.exchangeForAccessToken(url).then((resp) => {
         const token = resp.access_token;
         sessionStorage.setItem('accessToken', token);
-        window.location.href = '/';
+        window.location.href = '/victorian-tree-party';
     });
 }
