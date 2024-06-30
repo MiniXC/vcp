@@ -57,6 +57,7 @@
                         The tree character is called Miss Edith Rosemallow, aka Granny Rosemallow and is the village spinster.
                         Judge the story based on if it includes the tropes ${tropes}, and respond accordingly and in character.
                         Don't write more than one or two sentences.
+                        Be scathing if the story doesn't include the tropes, but in a backhanded way.
                     `
                 }],
                 max_tokens: 100,

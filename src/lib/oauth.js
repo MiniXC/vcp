@@ -1,7 +1,7 @@
 import { sha256 } from 'js-sha256';
 
 const clientId = 'ce40fcd2-fabf-4e81-b5ae-3cdd8818cfb0';
-const redirectUri = 'http://lvh.me/';
+const redirectUri = 'https://minixc.github.io/victorian-tree-party/';
 const authorizationEndpoint = 'https://huggingface.co/oauth/authorize';
 const tokenEndpoint = 'https://huggingface.co/oauth/token';
 const scopes = 'openid profile inference-api';
